@@ -1,0 +1,11 @@
+{
+    "id" : "HelloWorld",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Koke_Cacao",
+    "displayName" : "HelloWorld",
+    "description" : "First module.",
+    "dependencies" : [
+        {"id": "Core", "minVersion": "1.0.0"}
+    ],
+    "serverSideOnly" : false
+}
